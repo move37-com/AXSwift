@@ -28,4 +28,5 @@ Pod::Spec.new do |s|
 
   s.public_header_files = 'Sources/*.h'
   s.frameworks = 'Cocoa'
+  s.swift_version = '4.2'
 end
